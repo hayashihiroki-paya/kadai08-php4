@@ -1,0 +1,12 @@
+# test.js の削除
+test.js
+
+# node_modules フォルダを削除
+node_modules/
+
+# config.php の削除（passなど
+config.php
+config.prod.php
+
+# memo.txt 削除
+memo.txt
